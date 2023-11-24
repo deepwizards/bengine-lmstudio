@@ -1,0 +1,10 @@
+{
+    "extension_name": "bengine-lmstudio",
+    "description": "Integrate bengine with LM Studio's inference API",
+    "modules": [],
+    "services": [
+        "lmstudio"
+    ],
+    "datasets": [],
+    "version": "0.0.1"
+}
